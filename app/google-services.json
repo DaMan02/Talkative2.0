@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391886047685",
+    "firebase_url": "https://talkative-5b063.firebaseio.com",
+    "project_id": "talkative-5b063",
+    "storage_bucket": "talkative-5b063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391886047685:android:632a230bc3b636a9",
+        "android_client_info": {
+          "package_name": "com.dayal.talkative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391886047685-n4vvsrall1d0qai8ues6eal0ud2bk0pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dayal.talkative",
+            "certificate_hash": "96bbe17b30bc0f4e76600cd1fcd7d5d74b8783b7"
+          }
+        },
+        {
+          "client_id": "391886047685-r4rj0ntc5p0fgprkdqmfdmap1ifrhciu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXB_cqBTSVUic_CT1o4sRLAzHPnHGjSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391886047685-r4rj0ntc5p0fgprkdqmfdmap1ifrhciu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
